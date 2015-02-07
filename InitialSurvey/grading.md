@@ -1,0 +1,1 @@
+If the team has submitted a completed form, full points.

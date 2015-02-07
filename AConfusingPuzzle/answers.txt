@@ -1,0 +1,14 @@
+Across
+4. teapot
+5. satoshinakamoto
+9. reboot
+10. python
+11. bourne
+Down
+1. peerreview
+2. anons
+3. readonly
+5. shellshock
+6. overflow
+7. kevinmitnick
+8. transfer
