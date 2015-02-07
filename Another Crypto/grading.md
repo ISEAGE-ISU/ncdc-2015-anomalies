@@ -1,3 +1,5 @@
+Partial points can be awarded.  Substitution cipher where one letter is replaced by a word.  However, there are two possible words for each letter and they alternate.  The words are chosen in order from the words in the poem that are not duplicated and are more than 4 characters long.
+
 Once upon a midnight dreary, while I pondered, weak and weary,
  Over many a quaint and curious volume of forgotten lore,
  While I nodded, nearly napping, suddenly there came a tapping,
