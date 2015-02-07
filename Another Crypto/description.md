@@ -45,7 +45,7 @@ Which if thou follow, this strict court of Venice
 
 Must needs give sentence 'gainst the merchant there.
 
-
+--------------------
 monarch throned droppeth heaven  temporal better render teach  quality  becomes blest gentle throned consider beneath twice force  earthly sceptre likest enthroned mitigate above , Wherein Though blest takes heaven  consider  deeds monarch teach gentle likest sceptre heaven earthly , Venice likest quality gives  enthroned throned gentle  Wherein heaven quality mitigate sentence ,
  render majesty likest sceptre  prayer enthroned teach above  quality  crown strict enthroned blest throned follow  quality teach earthly  himself temporal mitigate consider monarch strict shows  court render salvation temporal becomes heaven  monarch place  seasons render sceptre Therefore monarch force follow likest throned  takes render mitigate heaven ,
  Venice twice blest salvation likest  consider  teach monarch gentle earthly heaven gentle , throned likest enthroned sceptre takes sentence  teach quality better deeds blest throned beneath , Which strict earthly gentle heaven teach salvation above  force Though likest mitigate heaven  droppeth enthroned prayer likest  quality  follow enthroned better deeds consider throned Therefore ,
