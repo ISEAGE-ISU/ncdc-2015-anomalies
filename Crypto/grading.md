@@ -1,3 +1,5 @@
+Partial points.  Submitting the code which is 'abdd' is also acceptable.
+
 If we are mark'd to die, we are enow
 To do our country loss; and if to live,
 The fewer men, the greater share of honour.
