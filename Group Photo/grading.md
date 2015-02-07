@@ -1,0 +1,1 @@
+Full points if most of the team is in the photo.
