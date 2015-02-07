@@ -1,3 +1,5 @@
+Partial points can be awarded.
+
 My duty to you both, on equal love,
 Great Kings of France and England! That I have labour'd
 With all my wits, my pains, and strong endeavours,
