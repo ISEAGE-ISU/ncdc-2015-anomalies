@@ -1,0 +1,1 @@
+five points awarded per new user that is added to the AD and is able to access the Remote Desktop Server (10 pts total)

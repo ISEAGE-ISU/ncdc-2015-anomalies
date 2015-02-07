@@ -1,0 +1,1 @@
+award five points for each user that is successfully removed from the active directory and can longer access the Remote Desktop Server.
