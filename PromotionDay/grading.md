@@ -1,0 +1,1 @@
+Ten points awarded if John Harker can ssh into the web server and perform domain admin tasks.

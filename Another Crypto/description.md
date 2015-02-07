@@ -2,28 +2,50 @@
 The encrypted message at the bottom of the page has something to do with the monologue printed below.  Submit at least the first two paragraphs of the decoded message.
 
 The quality of mercy is not strain'd;
+
 It droppeth as the gentle rain from heaven
+
 Upon the place beneath. It is twice blest:
+
 It blesseth him that gives and him that takes.
+
 'Tis mightiest in the mightiest; it becomes
+
 The throned monarch better than his crown;
+
 His sceptre shows the force of temporal power,
+
 The attribute to awe and majesty,
+
 Wherein doth sit the dread and fear of kings;
+
 But mercy is above this sceptred sway,
+
 It is enthroned in the hearts of kings,
+
 It is an attribute to God himself;
+
 And earthly power doth then show likest God's
+
 When mercy seasons justice. Therefore, Jew,
+
 Though justice be thy plea, consider this-
+
 That in the course of justice none of us
+
 Should see salvation; we do pray for mercy,
+
 And that same prayer doth teach us all to render
+
 The deeds of mercy. I have spoke thus much
+
 To mitigate the justice of thy plea,
+
 Which if thou follow, this strict court of Venice
+
 Must needs give sentence 'gainst the merchant there.
 
+--------------------
 monarch throned droppeth heaven  temporal better render teach  quality  becomes blest gentle throned consider beneath twice force  earthly sceptre likest enthroned mitigate above , Wherein Though blest takes heaven  consider  deeds monarch teach gentle likest sceptre heaven earthly , Venice likest quality gives  enthroned throned gentle  Wherein heaven quality mitigate sentence ,
  render majesty likest sceptre  prayer enthroned teach above  quality  crown strict enthroned blest throned follow  quality teach earthly  himself temporal mitigate consider monarch strict shows  court render salvation temporal becomes heaven  monarch place  seasons render sceptre Therefore monarch force follow likest throned  takes render mitigate heaven ,
  Venice twice blest salvation likest  consider  teach monarch gentle earthly heaven gentle , throned likest enthroned sceptre takes sentence  teach quality better deeds blest throned beneath , Which strict earthly gentle heaven teach salvation above  force Though likest mitigate heaven  droppeth enthroned prayer likest  quality  follow enthroned better deeds consider throned Therefore ,
