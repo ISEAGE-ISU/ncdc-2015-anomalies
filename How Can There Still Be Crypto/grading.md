@@ -1,3 +1,5 @@
+Partial points for partial answers or a description of how it works.  It was a basic Caesar Cipher with 2, 7, and 15.  i.e. the first letter was shifted by 2, 2nd by 7, 3rd by 15, 4th by 2, and so on.  Case does not matter.
+
 I've studied now Philosophy
 And Jurisprudence, Medicine,—
 And even, alas! Theology,—

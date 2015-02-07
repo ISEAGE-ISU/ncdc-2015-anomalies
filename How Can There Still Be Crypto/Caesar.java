@@ -12,14 +12,19 @@ public class Caesar {
 			System.out.println("File not found.");
 			return;
 		}
-		int[] code = {20, 70, 150};
+		int[] code = {2, 7, 15};
 		int i = 0;
 		while(s.hasNextLine()) {
 			String line = s.nextLine();
 			for (int j = 0; j < line.length(); j++) {
-				System.out.print((char)((line.charAt(j)+code[i]) % 256));
-				i++;
-				i %= 3;				
+				if (Character.isLetter(line.charAt(j))) {
+					char c = Character.toLowerCase(line.charAt(j));
+					System.out.print((char)(((c-'a')+code[i]) % 26 + 'a'));
+					i++;
+					i %= 3;				
+				} else {
+					System.out.print(line.charAt(j));
+				}
 			}
 			System.out.println();
 		}
