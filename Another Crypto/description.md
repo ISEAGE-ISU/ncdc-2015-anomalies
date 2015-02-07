@@ -1,5 +1,5 @@
 # Another Crypto
-The encrypted message at the bottom of the page has something to do with the monologue printed below.  Submit at least the first two paragraphs of the decoded message.
+The encrypted message at the bottom of the page has something to do with the monologue printed below.  Submit at least the first two paragraphs of the decoded message.  Partial points will be awarded if you describe how the mesage was encrypted.
 
 The quality of mercy is not strain'd;
 

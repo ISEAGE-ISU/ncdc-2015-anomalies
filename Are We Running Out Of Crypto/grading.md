@@ -1,4 +1,4 @@
-Partial points can be awarded.  Basic substitution cipher.
+Partial points can be awarded.  Basic substitution cipher.  Partial points for describing how it was encrypted.
 
 My duty to you both, on equal love,
 Great Kings of France and England! That I have labour'd

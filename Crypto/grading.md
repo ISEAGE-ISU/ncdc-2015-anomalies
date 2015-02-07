@@ -1,4 +1,4 @@
-Partial points.  Submitting the code which is 'abdd' is also acceptable.
+Partial points.  Submitting the code which is 'abdd' is also acceptable.  Partial points for describing how but not including text or the code.  It was encoded using XOR with a 4-bit repeating code.
 
 If we are mark'd to die, we are enow
 To do our country loss; and if to live,

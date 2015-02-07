@@ -1,5 +1,5 @@
 # Are We Running Out of Crypto?
-We received the following encoded message.  Submit the decoded message.
+We received the following encoded message.  Submit the decoded message.  Partial points will be awarded if you describe how it was encrypted.
 
 Du qzou ov uvz evos, vx pnzaw wvtp,
 Jipao Hlxjr vc Ciaxbp axq Pxjwaxq! Osao L satp waevzi'q
