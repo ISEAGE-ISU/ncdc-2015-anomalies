@@ -1,0 +1,1 @@
+points only awarded if you can access the chat server through http (port 80) and the chat server allows for anonymous users.
